@@ -10,5 +10,18 @@
       "deployment"
     ],
     "created": "2026-02-16T04:58:24Z"
+  },
+  "personal": {
+    "channels": [
+      "telegram:1594678363"
+    ],
+    "allowed_topics": [
+      "infrastructure",
+      "domains",
+      "personal",
+      "social_media",
+      "websites"
+    ],
+    "created": "2026-02-16T04:59:19Z"
   }
 }
