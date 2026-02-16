@@ -1,0 +1,14 @@
+{
+  "business": {
+    "channels": [
+      "telegram:-1003785842091"
+    ],
+    "allowed_topics": [
+      "revenue",
+      "security",
+      "platform",
+      "deployment"
+    ],
+    "created": "2026-02-16T04:58:24Z"
+  }
+}
