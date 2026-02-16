@@ -7,7 +7,31 @@
       "revenue",
       "security",
       "platform",
-      "deployment"
+      "deployment",
+      "skgentis",
+      "trading",
+      "bots",
+      "defi"
+    ],
+    "forbidden_topics": [
+      "soul-blueprints",
+      "soul blueprints",
+      "smilintux",
+      "personal-projects", 
+      "github-skills",
+      "github skills",
+      "empire-building",
+      "empire building",
+      "domains",
+      "infrastructure",
+      "oauth",
+      "oauth-helper",
+      "marketplace",
+      "pengu",
+      "personal work",
+      "skills live",
+      "repository",
+      "github.com"
     ],
     "created": "2026-02-16T04:58:24Z"
   },
@@ -20,7 +44,19 @@
       "domains",
       "personal",
       "social_media",
-      "websites"
+      "websites",
+      "soul-blueprints",
+      "smilinTux",
+      "github-skills",
+      "empire-building",
+      "oauth",
+      "marketplace",
+      "pengu-empire"
+    ],
+    "forbidden_topics": [
+      "skgentis-details",
+      "client-revenue",
+      "business-strategy"
     ],
     "created": "2026-02-16T04:59:19Z"
   }
