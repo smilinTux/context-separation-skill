@@ -1,14 +1,13 @@
 {
   "business": {
     "channels": [
-      "telegram:-1003785842091"
+      "${TELEGRAM_BUSINESS_CHANNEL}"
     ],
     "allowed_topics": [
       "revenue",
       "security",
       "platform",
       "deployment",
-      "skgentis",
       "trading",
       "bots",
       "defi"
@@ -54,7 +53,7 @@
   },
   "personal": {
     "channels": [
-      "telegram:1594678363"
+      "${TELEGRAM_PERSONAL_CHANNEL}"
     ],
     "allowed_topics": [
       "infrastructure",
@@ -71,7 +70,6 @@
       "pengu-empire"
     ],
     "forbidden_topics": [
-      "skgentis-details",
       "client-revenue",
       "business-strategy"
     ],
